@@ -9,7 +9,7 @@ Describe workshop at a high level.
 
 Have participants introduce themselves and express what brought them here.
 
-*✏️ capture their reasons for being here*
+*✏️capture their reasons for being here*
 
 
 ## 🕺 Activity
@@ -23,13 +23,14 @@ Move participants to breakout rooms (~3 people/room) for discussion.
 * Have you used or tried to use git or GitHub for your own purposes before?
 	* How was your experience?
 
-*✏️  each group will capture this info on a shared doc
+*✏️ each group will capture this info on a shared doc*
 
 
 ## 🗣️ Discussion
 ⏰ 5 mins
 
 Back in the big group.  Allow participants to discuss their findings from the activity.
+
 *✏️ capture shared experiences*
 
 
@@ -64,4 +65,7 @@ Ask participants to share their experiences in the previous section.
 	* What went right?
 	* What went wrong?
 	* Sticking points
+	
+*✏️ capture shared experiences*
+
 
